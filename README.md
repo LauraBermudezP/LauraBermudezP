@@ -21,6 +21,10 @@
 
 ---
 
+<p> 🚀 Deepening my knowledge in <strong>Java</strong>, especially <strong>Object-Oriented Programming (OOP) 💕</strong>.<br> 💡 Exploring concepts like <em>abstraction, inheritance, polymorphism</em> and <em>interfaces</em>.<br> </p>
+
+---
+
 ### 🔧 Tools I use
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
