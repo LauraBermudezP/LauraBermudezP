@@ -13,9 +13,11 @@
 
 ### 👩‍💻 About me
 
+- 🌐 B1 English Speaker.
 - 🎓 Currently learning how to program at CESDE.  
 - 💬 I love learning about **good practices, Java, OPP & databases**.  
-- 📖 In my free time, I like playing videogames, reading some books, riding my bike, following cooking recipes and improving my English on my own.  
+- 📖 In my free time, I like playing videogames, reading some books, riding my bike, following cooking recipes and improving my English on my own.
+- 🤡 Unnecessary fact: I don't know how to swim :/
 
 ---
 
