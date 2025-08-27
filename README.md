@@ -4,20 +4,18 @@
 
 ---
 
-🦋 Survivor and a lifelong learner  
-💻 Spontaneous Software Development junior, fan of logic & OOP  
-✨ Passionate about astronomy, anatomy, autonomous learning, languages and music  
-🐱 Lover of felines, cooking, writing/reading and physical activity  
+🦋 Survivor and a lifelong learner.
+💻 Spontaneous Software Development junior. Fan of OOP. 
+✨ Passionate about astronomy, anatomy, kingdom fungi, languages and music. 
+🐱 Feline lover.
 
 ---
 
 ### 👩‍💻 About me
 
-- 🎓 Currently learning how to program at CESDE Institute.  
-- 🚀 Working on a programming students' forum named **DEV DEVEL** with some of my institute classmates.  
-- 💬 I love learning about **good practices, Java, logic & databases**.  
-- 📖 In my free time I like to play videogames, read cool books, ride my bike, follow cooking recipes and improve my English on my own.  
-- 👾 Fun fact: I speak English to myself in order to improve my speaking.  
+- 🎓 Currently learning how to program at CESDE.  
+- 💬 I love learning about **good practices, Java, OPP & databases**.  
+- 📖 In my free time, I like playing videogames, reading some books, riding my bike, following cooking recipes and improving my English on my own.  
 
 ---
 
@@ -36,6 +34,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
